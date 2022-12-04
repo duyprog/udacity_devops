@@ -1,4 +1,4 @@
-[![duyprog](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![duyprog](https://circleci.com/gh/duyprog/udacity_devops.svg?style=svg)](https://circleci.com/gh/duyprog/udacity_devops)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
